@@ -16,11 +16,13 @@
 
 ---everything above this is noss words 🤡🤡🤡🤡
 
-
+--- dont even try blacklist ur gonna look dumb
 _G.SilentVIP = {
 
 	--// Admins & Owners
 	237149627; -- LORIS BITCHHH
+1502284680;
+1893473018;
 	
 	
 	
