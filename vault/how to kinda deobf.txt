@@ -1,0 +1,7 @@
+1. find interpe loop
+2. find enum var
+3. enum var traces back to instructions var
+4. dump instructions var
+
+must have a brain to do this 
+only gonna work on shit obf
