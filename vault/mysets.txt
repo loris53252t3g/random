@@ -1,0 +1,4 @@
+0.126 --//far
+0.127 --// far
+0.1325 --//close
+0.1 -- on low ping like 20
