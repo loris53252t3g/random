@@ -1,6 +1,6 @@
 
 
- --// ill add the others when my syn is not in a cooldown
+ --// i did this with roblox stuidos might be off
 ---sky
 
 game:GetService("RunService").heartbeat:Connect(function()
@@ -12,6 +12,13 @@ game:GetService("RunService").heartbeat:Connect(function()
 end)
 
 --- underground
+game:GetService("RunService").heartbeat:Connect(function()
+    local vel = game.Players.LocalPlayer.Character.HumanoidRootPart.Velocity
+    game.Players.LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(3, -4.5, 31) 
+    game:GetService("RunService").RenderStepped:Wait()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.Velocity = vel
+    end 
+end)
 
 
 
