@@ -150,7 +150,7 @@ UICorner_4.Parent = Main_Rounding
 
 -- UI Library
 
-local Library = loadstring(game:HttpGet("https://topgloris.com/folders/Ui-lib.lua"))()
+local Library = loadstring(game:HttpGet("https://topgloris.com/folders/uis/key%20system%20lib.lua"))()
 
 -- Services
 
