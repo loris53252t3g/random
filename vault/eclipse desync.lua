@@ -1,6 +1,6 @@
 
 
- --// i did this with roblox stuidos might be off
+ --// i did this with roblox studios might be off
 ---sky
 
 game:GetService("RunService").heartbeat:Connect(function()
