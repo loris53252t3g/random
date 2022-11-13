@@ -1,5 +1,10 @@
 
 
+--// logs are saved in synapse workspace
+
+
+
+
 assert(syn or http, "Unsupport exploit (should support syn.request or http.request)");
 
 local options = ({...})[1] or { AutoDecode = true, Highlighting = true, SaveLogs = true, CLICommands = true, ShowResponse = true, BlockedURLs = {}, API = true };
