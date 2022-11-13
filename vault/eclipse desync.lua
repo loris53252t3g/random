@@ -14,7 +14,7 @@ end)
 --- underground
 game:GetService("RunService").heartbeat:Connect(function()
     local vel = game.Players.LocalPlayer.Character.HumanoidRootPart.Velocity
-    game.Players.LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(3, -4.5, 31) 
+    game.Players.LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0,-810,0) 
     game:GetService("RunService").RenderStepped:Wait()
     game.Players.LocalPlayer.Character.HumanoidRootPart.Velocity = vel
     end 
